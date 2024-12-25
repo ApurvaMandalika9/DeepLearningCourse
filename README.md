@@ -1,7 +1,3 @@
-# DeepLearningCourse
+# Deep Learning Course Repo
 
-- HW1 - Linear Models for Handwritten Digits Classification
-- HW2 - Deep Residual Networks for CIFAR-10 Image Classification
-- HW3 - GPT for text generation tasks
-- HW4 - PCA vs Autoencoder
-- HW5 - Expectation Maximization Algorithm
+This repository contains all the homework assignments for my Deep Learning course. Each homework is organized in its respective folder but the datasets used for the assignments have not been uploaded to this repository due to their large size.
